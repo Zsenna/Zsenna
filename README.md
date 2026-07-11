@@ -35,7 +35,9 @@ class Ikram extends Developer
     public array $profile = [
         'name'      => 'Raid Abdurahman Ikram',
         'role'      => 'Web Developer',
-        'stack'     => ['PHP', 'Laravel'],
+        'backend'   => ['PHP', 'Laravel', 'MySQL'],
+        'frontend'  => ['JavaScript', 'HTML5', 'CSS3', 'Tailwind CSS', 'Bootstrap'],
+        'tools'     => ['Git', 'GitHub'],
         'passion'   => 'Building impactful web solutions',
         'hobbies'   => ['Traveling ✈️', 'Exploring new places 🌍'],
         'motto'     => "Let's build something amazing together!",
