@@ -1,7 +1,7 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Raid%20Abdurahman%20Ikram&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20PHP%20%26%20Laravel%20Enthusiast&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Raid%20Abdurahman%20Ikram&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20PHP%20%26%20Laravel%20Enthusiast&descAlignY=58&descSize=18&v=2" alt="header"/>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://git.io/typing-svg">
@@ -71,12 +71,12 @@ class Ikram extends Developer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zsenna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zsenna&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zsenna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400&v=2" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zsenna&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400&v=2" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zsenna&theme=react&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Zsenna&theme=react&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="streak" />
 
 </div>
 
@@ -87,7 +87,7 @@ class Ikram extends Developer
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zsenna&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Zsenna&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&v=2" alt="trophies" />
 
 </div>
 
@@ -96,7 +96,11 @@ class Ikram extends Developer
 <!-- ====================== SNAKE ANIMATION ====================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zsenna/Zsenna/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zsenna/Zsenna/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Zsenna/Zsenna/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</picture>
 
 </div>
 
@@ -130,6 +134,6 @@ class Ikram extends Developer
 
 ### ✨ *"Let's build something amazing together!"* ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=footer&v=2" alt="footer"/>
 
 </div>
