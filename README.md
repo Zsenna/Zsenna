@@ -6,19 +6,19 @@
 </h1>
 
 <h3>
-  🚀 Web Developer &nbsp;·&nbsp; 💜 PHP &amp; Laravel Enthusiast
+  🚀 Web Developer &nbsp;·&nbsp; 💙 Building Impactful Web Solutions
 </h3>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Ikram+%F0%9F%91%8B;PHP+%26+Laravel+Enthusiast+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Traveler+%26+Lifelong+Learner+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1E3A8A&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Ikram+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Traveler+%26+Lifelong+Learner+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <!-- ====================== PROFILE VIEWS + FOLLOW ====================== -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Zsenna&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Zsenna&label=Profile%20Views&color=1E3A8A&style=flat-square" alt="profile views" />
   <a href="https://github.com/Zsenna?tab=followers">
-    <img src="https://img.shields.io/github/followers/Zsenna?label=Followers&style=flat-square&color=8A2BE2" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Zsenna?label=Followers&style=flat-square&color=1E3A8A" alt="followers" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@ const ikram: Developer = {
 };
 ```
 
-> 💜 Passionate about creating impactful web solutions using **PHP** and **Laravel**. Every project in my repository is a personal favorite—each one reflects my dedication to learning, building, and refining the craft.
+> 💙 Passionate about creating impactful web solutions across the full stack. Every project in my repository is a personal favorite—each one reflects my dedication to learning, building, and refining the craft.
 
 <br/>
 
@@ -87,12 +87,12 @@ const ikram: Developer = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Zsenna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" alt="stats" />
-<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Zsenna&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&cache_seconds=86400" alt="top langs" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Zsenna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=1E3A8A&icon_color=1E3A8A&text_color=c9d1d9&cache_seconds=86400" alt="stats" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Zsenna&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=1E3A8A&text_color=c9d1d9&cache_seconds=86400" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Zsenna&theme=react&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Zsenna&theme=react&hide_border=true&background=0D1117&stroke=1E3A8A&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A" alt="streak" />
 
 </div>
 
@@ -130,7 +130,7 @@ const ikram: Developer = {
 <!-- ====================== QUOTE ====================== -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 </div>
 
@@ -139,7 +139,7 @@ const ikram: Developer = {
 
 ### ✨ *"Let's build something amazing together!"* ✨
 
-💜 &nbsp; 🌍 &nbsp; ⚡ &nbsp; ☕ &nbsp; 🚀 &nbsp; ✈️ &nbsp; 💻
+💙 &nbsp; 🌍 &nbsp; ⚡ &nbsp; ☕ &nbsp; 🚀 &nbsp; ✈️ &nbsp; 💻
 
 <sub>Thanks for visiting — feel free to explore my repositories! ⭐</sub>
 
